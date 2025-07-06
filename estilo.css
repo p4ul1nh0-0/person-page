@@ -1,0 +1,77 @@
+/* Fundo suave */
+body {
+  background-color: #c7cdd3;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+/* Título centralizado e colorido */
+h1 {
+  color: #2e8b57;
+  text-align: center;
+}
+
+/* Parágrafo maior e justificado */
+p {
+  font-size: 18px;
+  text-align: justify;
+}
+
+/* Lista com espaçamento maior */
+ul {
+  line-height: 2;
+  font-size: 16px;
+}
+
+/* Imagem com bordas arredondadas e tamanho adequado */
+.hobby-img {
+  width: 300px;
+  border-radius: 10px;
+  display: block;
+  margin: 20px auto;
+}
+
+/* Tabela estilizada */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+th, td {
+  border: 1px solid #999;
+  padding: 10px;
+  text-align: center;
+}
+
+.pais-img {
+  width: 150px;
+  border-radius: 8px;
+}
+
+/* Link com efeito hover */
+a {
+  color: #1e90ff;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #ff4500;
+}
+
+/* Botão e mensagem */
+#mensagem-btn {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #2e8b57;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#mensagem {
+  margin-top: 15px;
+  font-weight: bold;
+  color: #2e8b57;
+}
